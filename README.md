@@ -1,4 +1,4 @@
-# Introduction to machine learning
+# Project for Introduction to machine learning
 Simple project on logistic regression in R
 
 ## Files:
